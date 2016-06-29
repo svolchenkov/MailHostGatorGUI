@@ -1,1 +1,1 @@
-# mailHostGator
+# MailHostGatorGUI
